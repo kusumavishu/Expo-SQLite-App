@@ -1,0 +1,23 @@
+npx create-expo-app projectName --template blank@51.0.28
+
+npm install @react-navigation/native@6.1.18
+npx expo install react-native-screens react-native-safe-area-context
+npm install @react-navigation/native-stack@6.11.0
+
+npm install @react-navigation/bottom-tabs@^6.6.1
+
+npm i @expo/vector-icons
+
+npx expo install expo-sqlite
+
+npm install nativewind@2.0.11
+npm install --save-dev tailwindcss@3.3.2
+
+npx tailwindcss init
+
+npx expo install react-native-gesture-handler@2.16.1 react-native-reanimated@3.10.1
+
+npm i @gorhom/bottom-sheet
+
+npm i axios
+
